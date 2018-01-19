@@ -358,9 +358,9 @@
     <Language Code="zu-za" InMinimumRequirementSet="true" />
   </SupportedLocales>
   <ProductReservedInfo>
-    <MainPackageIdentityName>63967vsclient.AUWPbihuan</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.UWP-Presidentsbys</MainPackageIdentityName>
     <ReservedNames>
-      <ReservedName>A_UWP_bihuan</ReservedName>
+      <ReservedName>UWP-Presidentsbys</ReservedName>
     </ReservedNames>
   </ProductReservedInfo>
   <AccountPackageIdentityNames>
@@ -371,6 +371,7 @@
     <MainPackageIdentityName>63967vsclient.aaa</MainPackageIdentityName>
     <MainPackageIdentityName>63967vsclient.2658707C5F2A4</MainPackageIdentityName>
     <MainPackageIdentityName>63967vsclient.asxe</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.AUWPbihuan</MainPackageIdentityName>
     <MainPackageIdentityName>63967vsclient.AUWPPresidents</MainPackageIdentityName>
     <MainPackageIdentityName>63967vsclient.aaqwe</MainPackageIdentityName>
     <MainPackageIdentityName>63967vsclient.App</MainPackageIdentityName>
@@ -388,7 +389,42 @@
     <MainPackageIdentityName>63967vsclient.avauwppush</MainPackageIdentityName>
     <MainPackageIdentityName>63967vsclient.Bit-UWP-Push</MainPackageIdentityName>
     <MainPackageIdentityName>63967vsclient.botengApp3test1</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.boteng1-App1-test1</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.boteng-app0</MainPackageIdentityName>
     <MainPackageIdentityName>63967vsclient.boteng-app12-initial-create</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.boteng-app1-test10</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.boteng-app1-test11</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.boteng-app1-test12</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.boteng-app1-test13</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.boteng-app1-test14</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.boteng-app1-test15</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.boteng-app1-test16</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.boteng-app1-test17</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.boteng-app1-test18</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.boteng-app1-test19</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.boteng-App1-test2</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.boteng-app1-test20</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.boteng-app1-test21</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.boteng-app1-test22</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.boteng-app1-test23</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.boteng-app1-test24</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.boteng-app1-test25</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.boteng-app1-test26</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.boteng-app1-test27</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.boteng-app1-test28</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.boteng-app1-test29</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.boteng-app1-test3</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.boteng-app1-test31</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.boteng-app1-test32</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.boteng-app1-test33</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.boteng-app1-test34</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.boteng-app1-test35</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.boteng-app1-test4</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.boteng-app1-test5</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.boteng-app1-test6</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.boteng-app1-test7</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.boteng-app1-test8</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.boteng-app1-test9</MainPackageIdentityName>
     <MainPackageIdentityName>63967vsclient.boteng-app6-1</MainPackageIdentityName>
     <MainPackageIdentityName>63967vsclient.boteng-app6-2</MainPackageIdentityName>
     <MainPackageIdentityName>63967vsclient.boteng-app6-3</MainPackageIdentityName>
@@ -398,6 +434,7 @@
     <MainPackageIdentityName>63967vsclient.boteng-test2</MainPackageIdentityName>
     <MainPackageIdentityName>63967vsclient.boteng-test3</MainPackageIdentityName>
     <MainPackageIdentityName>63967vsclient.boteng-test4</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.CC-uwp0109</MainPackageIdentityName>
     <MainPackageIdentityName>63967vsclient.Chaoyun123</MainPackageIdentityName>
     <MainPackageIdentityName>63967vsclient.CloudPush</MainPackageIdentityName>
     <MainPackageIdentityName>63967vsclient.17933E35BB175</MainPackageIdentityName>
@@ -418,6 +455,7 @@
     <MainPackageIdentityName>63967vsclient.fdddf</MainPackageIdentityName>
     <MainPackageIdentityName>63967vsclient.fdsfa</MainPackageIdentityName>
     <MainPackageIdentityName>63967vsclient.fe2u</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.FiddlerTest123</MainPackageIdentityName>
     <MainPackageIdentityName>63967vsclient.FileUploader</MainPackageIdentityName>
     <MainPackageIdentityName>63967vsclient.FormUWP</MainPackageIdentityName>
     <MainPackageIdentityName>63967vsclient.frankmobileapp20160728</MainPackageIdentityName>
@@ -652,7 +690,6 @@
     <MainPackageIdentityName>63967vsclient.UWP-CC0817</MainPackageIdentityName>
     <MainPackageIdentityName>63967vsclient.UWP-CHZHA</MainPackageIdentityName>
     <MainPackageIdentityName>63967vsclient.UWPMCPush</MainPackageIdentityName>
-    <MainPackageIdentityName>63967vsclient.UWP-Presidentsbys</MainPackageIdentityName>
     <MainPackageIdentityName>63967vsclient.UWPPush</MainPackageIdentityName>
     <MainPackageIdentityName>63967vsclient.UWPPush1</MainPackageIdentityName>
     <MainPackageIdentityName>63967vsclient.UWPPushDemo</MainPackageIdentityName>
@@ -728,16 +765,11 @@
     <MainPackageIdentityName>vsclient.yj123</MainPackageIdentityName>
     <MainPackageIdentityName>vsclient.yj22</MainPackageIdentityName>
     <MainPackageIdentityName>63967vsclient.yng</MainPackageIdentityName>
-    <MainPackageIdentityName>63967vsclient.35568F491DF2B</MainPackageIdentityName>
-    <MainPackageIdentityName>63967vsclient.12925E6F92086</MainPackageIdentityName>
-    <MainPackageIdentityName>63967vsclient.22830E924762A</MainPackageIdentityName>
-    <MainPackageIdentityName>63967vsclient.2663981F0A3CB</MainPackageIdentityName>
-    <MainPackageIdentityName>63967vsclient.63710E0F26E05</MainPackageIdentityName>
     <MainPackageIdentityName>63967vsclient.zd</MainPackageIdentityName>
     <MainPackageIdentityName>63967vsclient.zasx</MainPackageIdentityName>
     <MainPackageIdentityName>63967vsclient.zbahhu</MainPackageIdentityName>
     <MainPackageIdentityName>63967vsclient.zcf001</MainPackageIdentityName>
     <MainPackageIdentityName>63967vsclient.zxc1</MainPackageIdentityName>
   </AccountPackageIdentityNames>
-  <PackageInfoList LandingUrl="https://developer.microsoft.com/dashboard/Application?appId=9N18VLGLQ77C" />
+  <PackageInfoList LandingUrl="https://developer.microsoft.com/dashboard/Application?appId=9NP1922CKT3W" />
 </StoreAssociation>

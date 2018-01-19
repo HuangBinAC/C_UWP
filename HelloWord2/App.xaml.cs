@@ -74,7 +74,7 @@ namespace HelloWord2
                       
             var installId = AppCenter.GetInstallIdAsync();
 
-            System.Diagnostics.Debug.WriteLine("InstallId=" + installId.Result); //+
+            // System.Diagnostics.Debug.WriteLine("InstallId=" + installId.Result); //+
 
             // Do not repeat app initialization when the Window already has content,
             // just ensure that the window is active

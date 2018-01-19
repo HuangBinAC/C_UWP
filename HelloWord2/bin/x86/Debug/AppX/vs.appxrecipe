@@ -8,7 +8,7 @@
     <TargetOsDescription>Windows 10.0</TargetOsDescription>
     <SolutionConfiguration>Debug|x86</SolutionConfiguration>
     <PackageArchitecture>x86</PackageArchitecture>
-    <PackageIdentityName>23ba34de-3889-484f-80c0-eadde5937f68</PackageIdentityName>
+    <PackageIdentityName>d54a0d49-d4e5-4c70-87f8-405252157ef3</PackageIdentityName>
     <PackageIdentityPublisher>CN=6B0E04BB-E44B-43CE-89DF-DBA5BC33E3A2</PackageIdentityPublisher>
     <IntermediateOutputPath>D:\Project\C_UWP_HelloWord\HelloWord2\obj\x86\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType>
@@ -16,10 +16,10 @@
     <PackageRegistrationPath>
     </PackageRegistrationPath>
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
-    <RegisteredManifestChecksum>48C37631EA9B5EF02EBD3EE7951FD3ADC535AE544A701FD1A2C5910FF5B9CD01</RegisteredManifestChecksum>
-    <RegisteredPackageMoniker>63967vsclient.AUWPbihuan_1.1.0.0_x86__pekm0tavj4jwp</RegisteredPackageMoniker>
-    <RegisteredUserModeAppID>63967vsclient.AUWPbihuan_pekm0tavj4jwp!App</RegisteredUserModeAppID>
-    <RegisteredPackageID>63967vsclient.AUWPbihuan</RegisteredPackageID>
+    <RegisteredManifestChecksum>80474D61B24335AAA185E73621BE49EE5EB56566AAA5052D67CF4E3E10F85B44</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>63967vsclient.UWP-Presidentsbys_1.1.0.0_x86__pekm0tavj4jwp</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>63967vsclient.UWP-Presidentsbys_pekm0tavj4jwp!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>63967vsclient.UWP-Presidentsbys</RegisteredPackageID>
     <RegisteredPackagePublisher>CN=6B0E04BB-E44B-43CE-89DF-DBA5BC33E3A2</RegisteredPackagePublisher>
     <RegisteredVersion>1.1.0.0</RegisteredVersion>
     <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
@@ -28,13 +28,13 @@
     <AppXManifest Include="D:\Project\C_UWP_HelloWord\HelloWord2\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-01-19T08:27:18.073</Modified>
+      <Modified>2018-01-19T10:28:46.307</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="D:\Project\C_UWP_HelloWord\HelloWord2\bin\x86\Debug\HelloWord2.exe">
       <PackagePath>entrypoint\HelloWord2.exe</PackagePath>
-      <Modified>2018-01-19T08:27:10.529</Modified>
+      <Modified>2018-01-19T10:28:39.245</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\v-bihuan\.nuget\packages\microsoft.appcenter.crashes\1.0.0\build\uap10.0\..\..\runtimes\win10-x86\native\WatsonRegistrationUtility.dll">
       <PackagePath>WatsonRegistrationUtility.dll</PackagePath>
@@ -601,11 +601,11 @@
     <AppxPackagedFile Include="D:\Project\C_UWP_HelloWord\HelloWord2\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-01-19T08:27:14.181</Modified>
+      <Modified>2018-01-19T10:28:42.776</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Project\C_UWP_HelloWord\HelloWord2\bin\x86\Debug\Core\HelloWord2.exe">
       <PackagePath>HelloWord2.exe</PackagePath>
-      <Modified>2018-01-19T08:27:18.059</Modified>
+      <Modified>2018-01-19T10:28:46.291</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
