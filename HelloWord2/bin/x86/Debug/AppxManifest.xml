@@ -7,7 +7,7 @@
 
     For more information on package manifest files, see http://go.microsoft.com/fwlink/?LinkID=241727
   -->
-  <Identity Name="63967vsclient.UWP-Presidentsbys" Publisher="CN=vsclient_1@hotmail.com" Version="1.1.0.0" ProcessorArchitecture="x86" />
+  <Identity Name="63967vsclient.UWP-Presidentsbys" Publisher="CN=6B0E04BB-E44B-43CE-89DF-DBA5BC33E3A2" Version="1.1.0.0" ProcessorArchitecture="x86" />
   <mp:PhoneIdentity PhoneProductId="d54a0d49-d4e5-4c70-87f8-405252157ef3" PhonePublisherId="00000000-0000-0000-0000-000000000000" />
   <Properties>
     <DisplayName>UWP-Presidentsbys</DisplayName>
