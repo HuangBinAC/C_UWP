@@ -68,7 +68,7 @@ namespace HelloWord2
                 // Send the notification summary to debug output
                 System.Diagnostics.Debug.WriteLine(summary);
             };
-            AppCenter.SetCountryCode("england");
+            AppCenter.SetCountryCode("cn");
             AppCenter.Start("5205013a-7409-41c5-9361-a60260ceec00", typeof(Analytics), typeof(Crashes), typeof(Push)); //+
             Push.CheckLaunchedFromNotification(e);
                       
