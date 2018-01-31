@@ -44,6 +44,8 @@ namespace HelloWord2
         /// <param name="e">Details about the launch request and process.</param>
         protected override void OnLaunched(LaunchActivatedEventArgs e)
         {
+            AppCenter.SetCountryCode("usa");
+            AppCenter.Start("cdf625a9-6769-438f-b291-a9834b04777e", typeof(Analytics), typeof(Crashes), typeof(Push));
             Push.SetEnabledAsync(true);
             Frame rootFrame = Window.Current.Content as Frame;
             // This should come before AppCenter.Start() is called
@@ -69,12 +71,9 @@ namespace HelloWord2
                 System.Diagnostics.Debug.WriteLine(summary);
             };
             
-            AppCenter.SetCountryCode("usa");
-            AppCenter.Start("cdf625a9-6769-438f-b291-a9834b04777e", typeof(Analytics), typeof(Crashes), typeof(Push));
-            Push.CheckLaunchedFromNotification(e);
-                      
+            
+            Push.CheckLaunchedFromNotification(e);         
             var installId = AppCenter.GetInstallIdAsync();
-
             System.Diagnostics.Debug.WriteLine("InstallId=" + installId.Result); //+
 
             // Do not repeat app initialization when the Window already has content,
