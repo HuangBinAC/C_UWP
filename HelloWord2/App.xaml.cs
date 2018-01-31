@@ -68,7 +68,7 @@ namespace HelloWord2
                 // Send the notification summary to debug output
                 System.Diagnostics.Debug.WriteLine(summary);
             };
-            AppCenter.setLogUrl("https://in-staging-south-centralus.staging.avalanch.es");
+            AppCenter.SetLogUrl("https://in-staging-south-centralus.staging.avalanch.es");
             AppCenter.SetCountryCode("cn");
             AppCenter.Start("cdf625a9-6769-438f-b291-a9834b04777e", typeof(Analytics), typeof(Crashes), typeof(Push));
             Push.CheckLaunchedFromNotification(e);
