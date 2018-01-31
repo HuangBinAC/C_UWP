@@ -300,3 +300,4 @@ D:\Project\C_UWP_HelloWord\HelloWord2\obj\x86\Release\ilc\in\Assets\Square44x44L
 D:\Project\C_UWP_HelloWord\HelloWord2\obj\x86\Release\ilc\in\Assets\StoreLogo.png
 D:\Project\C_UWP_HelloWord\HelloWord2\obj\x86\Release\ilc\in\Assets\Wide310x150Logo.scale-200.png
 D:\Project\C_UWP_HelloWord\HelloWord2\obj\x86\Release\ilc.HelloWord2.rsp
+D:\Project\C_UWP_HelloWord\HelloWord2\obj\x86\Release\HelloWord2.csprojResolveAssemblyReference.cache
