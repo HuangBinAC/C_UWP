@@ -69,7 +69,7 @@ namespace HelloWord2
                 System.Diagnostics.Debug.WriteLine(summary);
             };
             
-            AppCenter.SetCountryCode("cn");
+            AppCenter.SetCountryCode("usa");
             AppCenter.Start("cdf625a9-6769-438f-b291-a9834b04777e", typeof(Analytics), typeof(Crashes), typeof(Push));
             Push.CheckLaunchedFromNotification(e);
                       
