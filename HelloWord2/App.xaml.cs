@@ -44,8 +44,9 @@ namespace HelloWord2
         /// <param name="e">Details about the launch request and process.</param>
         protected override void OnLaunched(LaunchActivatedEventArgs e)
         {
-            AppCenter.SetCountryCode("usa");
-            AppCenter.Start("cdf625a9-6769-438f-b291-a9834b04777e", typeof(Analytics), typeof(Crashes), typeof(Push));
+            AppCenter.SetLogUrl("https://in-staging-south-centralus.staging.avalanch.es");
+            AppCenter.SetCountryCode("cn");
+            AppCenter.Start("998a35d1-d603-433d-aa99-41f82674c64f", typeof(Analytics), typeof(Crashes), typeof(Push));
             Push.SetEnabledAsync(true);
             Frame rootFrame = Window.Current.Content as Frame;
             // This should come before AppCenter.Start() is called
