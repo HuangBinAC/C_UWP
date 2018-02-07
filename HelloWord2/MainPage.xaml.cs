@@ -28,12 +28,12 @@ namespace HelloWord2
             this.InitializeComponent();
         }
 
-        private void Button_Click(object sender, RoutedEventArgs e)
+        private void Button_Crash(object sender, RoutedEventArgs e)
         {
             throw new System.Exception("This is a test crash");
         }
 
-        private void Button_Click_1(object sender, RoutedEventArgs e)
+        private void Button_Analytics(object sender, RoutedEventArgs e)
         {
             
             Analytics.TrackEvent("Video clicked", new Dictionary<string, string> {

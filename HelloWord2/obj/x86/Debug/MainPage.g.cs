@@ -28,7 +28,7 @@ namespace HelloWord2
                 {
                     global::Windows.UI.Xaml.Controls.Button element1 = (global::Windows.UI.Xaml.Controls.Button)(target);
                     #line 11 "..\..\..\MainPage.xaml"
-                    ((global::Windows.UI.Xaml.Controls.Button)element1).Click += this.Button_Click_1;
+                    ((global::Windows.UI.Xaml.Controls.Button)element1).Click += this.Button_Analytics;
                     #line default
                 }
                 break;
