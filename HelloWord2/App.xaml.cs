@@ -47,7 +47,7 @@ namespace HelloWord2
             AppCenter.SetLogUrl("https://in-staging-south-centralus.staging.avalanch.es");
             AppCenter.SetCountryCode("cn");
             AppCenter.Start("3c427f09-f648-4277-92f6-0bf4a7e322d2", typeof(Analytics), typeof(Crashes), typeof(Push));
-            Push.SetEnabledAsync(true);
+            // Push.SetEnabledAsync(true);
             Frame rootFrame = Window.Current.Content as Frame;
             // This should come before AppCenter.Start() is called
             Push.PushNotificationReceived += (sender, es) => {
