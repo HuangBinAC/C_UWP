@@ -8,8 +8,8 @@
     mc:Ignorable="d">
 
     <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
-        <Button x:ConnectionId='1' Content="analytics" HorizontalAlignment="Left" Margin="129,109,0,0" VerticalAlignment="Top"                        Height="48" Width="151"/>
-        <Button x:ConnectionId='2' Content="crash" HorizontalAlignment="Left" Margin="129,339,0,0" VerticalAlignment="Top"                      Height="40" Width="151"/>
+        <Button x:ConnectionId='1' Content="Analytics" HorizontalAlignment="Left" Margin="53,109,0,0" VerticalAlignment="Top"                          Height="128" Width="151"/>
+        <Button x:ConnectionId='2' Content="Crashes" HorizontalAlignment="Left" Margin="429,113,0,0" VerticalAlignment="Top"                      Height="128" Width="151"/>
 
     </Grid>
 </Page>
