@@ -35,10 +35,11 @@ namespace HelloWord2
 
         private void Button_Analytics(object sender, RoutedEventArgs e)
         {
-            
             Analytics.TrackEvent("Video clicked", new Dictionary<string, string> {
                 { "Category", "Music" },
-                { "FileName", "favorite.avi"}
+                { "FileName", "favorite.avi"},
+                { "Game", "Call of Duty"},
+                { "CarBrand", "Lexus"}
             });
         }
     }
