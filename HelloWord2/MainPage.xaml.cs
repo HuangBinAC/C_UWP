@@ -1,4 +1,5 @@
 ﻿using Microsoft.AppCenter.Analytics;
+using Microsoft.AppCenter.Crashes;
 using System;
 using System.Collections.Generic;
 using System.IO;
@@ -29,9 +30,15 @@ namespace HelloWord2
         }
 
         private void Button_Crash(object sender, RoutedEventArgs e)
-        {
-            throw new System.Exception("This is a test crash");
+        {  
+           throw new System.Exception("This is a test crash");  
         }
+
+        private void Button_NewCrash(object sender, RoutedEventArgs e)
+        {
+            throw new System.Exception("a NewCrash");
+        }
+
 
         private void Button_Analytics(object sender, RoutedEventArgs e)
         {
