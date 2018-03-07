@@ -44,8 +44,8 @@ namespace HelloWord2
         /// <param name="e">Details about the launch request and process.</param>
         protected override void OnLaunched(LaunchActivatedEventArgs e)
         {
-            AppCenter.SetLogUrl("https://in-staging-south-centralus.staging.avalanch.es");
-            AppCenter.SetCountryCode("us");
+            // AppCenter.SetLogUrl("https://in-staging-south-centralus.staging.avalanch.es");
+            AppCenter.SetCountryCode("jp");
             AppCenter.Start("e3bd349d-a5f2-4371-bf6c-995cc1450f9d", typeof(Analytics), typeof(Crashes), typeof(Push));
             // Push.SetEnabledAsync(true);
             Frame rootFrame = Window.Current.Content as Frame;
