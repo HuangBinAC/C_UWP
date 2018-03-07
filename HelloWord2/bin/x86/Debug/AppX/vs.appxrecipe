@@ -28,33 +28,33 @@
     <AppXManifest Include="D:\Project\C_UWP_HelloWord\HelloWord2\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-03-07T05:14:58.263</Modified>
+      <Modified>2018-03-07T06:11:20.046</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="D:\Project\C_UWP_HelloWord\HelloWord2\bin\x86\Debug\HelloWord2.exe">
       <PackagePath>entrypoint\HelloWord2.exe</PackagePath>
-      <Modified>2018-03-07T05:14:55.763</Modified>
+      <Modified>2018-03-07T06:11:16.417</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\v-bihuan\.nuget\packages\microsoft.appcenter.crashes\1.4.0\build\uap10.0\..\..\runtimes\win10-x86\native\WatsonRegistrationUtility.dll">
+    <AppxPackagedFile Include="C:\Users\v-bihuan\.nuget\packages\microsoft.appcenter.crashes\1.5.0\build\uap10.0\..\..\runtimes\win10-x86\native\WatsonRegistrationUtility.dll">
       <PackagePath>WatsonRegistrationUtility.dll</PackagePath>
-      <Modified>2018-02-15T16:02:52.000</Modified>
+      <Modified>2018-02-27T16:41:12.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\v-bihuan\.nuget\packages\Microsoft.AppCenter\1.4.0\lib\uap10.0\Microsoft.AppCenter.dll">
+    <AppxPackagedFile Include="C:\Users\v-bihuan\.nuget\packages\Microsoft.AppCenter\1.5.0\lib\uap10.0\Microsoft.AppCenter.dll">
       <PackagePath>Microsoft.AppCenter.dll</PackagePath>
-      <Modified>2018-02-15T16:02:50.000</Modified>
+      <Modified>2018-02-27T16:41:10.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\v-bihuan\.nuget\packages\Microsoft.AppCenter.Analytics\1.4.0\lib\uap10.0\Microsoft.AppCenter.Analytics.dll">
+    <AppxPackagedFile Include="C:\Users\v-bihuan\.nuget\packages\Microsoft.AppCenter.Analytics\1.5.0\lib\uap10.0\Microsoft.AppCenter.Analytics.dll">
       <PackagePath>Microsoft.AppCenter.Analytics.dll</PackagePath>
-      <Modified>2018-02-15T16:02:50.000</Modified>
+      <Modified>2018-02-27T16:41:10.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\v-bihuan\.nuget\packages\Microsoft.AppCenter.Crashes\1.4.0\runtimes\win10-x86\lib\uap10.0\Microsoft.AppCenter.Crashes.dll">
+    <AppxPackagedFile Include="C:\Users\v-bihuan\.nuget\packages\Microsoft.AppCenter.Crashes\1.5.0\runtimes\win10-x86\lib\uap10.0\Microsoft.AppCenter.Crashes.dll">
       <PackagePath>Microsoft.AppCenter.Crashes.dll</PackagePath>
-      <Modified>2018-02-15T16:02:52.000</Modified>
+      <Modified>2018-02-27T16:41:12.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\v-bihuan\.nuget\packages\Microsoft.AppCenter.Push\1.4.0\lib\uap10.0\Microsoft.AppCenter.Push.dll">
+    <AppxPackagedFile Include="C:\Users\v-bihuan\.nuget\packages\Microsoft.AppCenter.Push\1.5.0\lib\uap10.0\Microsoft.AppCenter.Push.dll">
       <PackagePath>Microsoft.AppCenter.Push.dll</PackagePath>
-      <Modified>2018-02-15T16:02:54.000</Modified>
+      <Modified>2018-02-27T16:41:14.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\v-bihuan\.nuget\packages\Microsoft.CSharp\4.0.1\lib\netcore50\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -548,9 +548,9 @@
       <PackagePath>System.Xml.XmlSerializer.dll</PackagePath>
       <Modified>2016-06-11T15:15:04.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\v-bihuan\.nuget\packages\Microsoft.AppCenter.Crashes\1.4.0\runtimes\win10-x86\lib\uap10.0\WatsonRegistrationUtility.winmd">
+    <AppxPackagedFile Include="C:\Users\v-bihuan\.nuget\packages\Microsoft.AppCenter.Crashes\1.5.0\runtimes\win10-x86\lib\uap10.0\WatsonRegistrationUtility.winmd">
       <PackagePath>WatsonRegistrationUtility.winmd</PackagePath>
-      <Modified>2018-02-15T16:02:52.000</Modified>
+      <Modified>2018-02-27T16:41:12.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Project\C_UWP_HelloWord\HelloWord2\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
@@ -601,11 +601,11 @@
     <AppxPackagedFile Include="D:\Project\C_UWP_HelloWord\HelloWord2\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-03-02T02:05:10.929</Modified>
+      <Modified>2018-03-07T06:11:17.705</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Project\C_UWP_HelloWord\HelloWord2\bin\x86\Debug\Core\HelloWord2.exe">
       <PackagePath>HelloWord2.exe</PackagePath>
-      <Modified>2018-03-07T05:14:58.253</Modified>
+      <Modified>2018-03-07T06:11:20.038</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
