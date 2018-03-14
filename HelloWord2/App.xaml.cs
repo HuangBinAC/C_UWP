@@ -45,7 +45,7 @@ namespace HelloWord2
         protected override void OnLaunched(LaunchActivatedEventArgs e)
         {
             // AppCenter.SetLogUrl("https://in-staging-south-centralus.staging.avalanch.es");
-            AppCenter.SetCountryCode("us");
+            AppCenter.SetCountryCode("rs");
             AppCenter.Start("e3bd349d-a5f2-4371-bf6c-995cc1450f9d", typeof(Analytics), typeof(Crashes), typeof(Push));
             // Push.SetEnabledAsync(true);
             Frame rootFrame = Window.Current.Content as Frame;
