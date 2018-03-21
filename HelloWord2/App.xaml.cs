@@ -46,7 +46,7 @@ namespace HelloWord2
         {
             // AppCenter.SetLogUrl("https://in-staging-south-centralus.staging.avalanch.es");
             AppCenter.SetCountryCode("cn");
-            AppCenter.Start("e3bd349d-a5f2-4371-bf6c-995cc1450f9d", typeof(Analytics), typeof(Crashes), typeof(Push));
+            AppCenter.Start("ad16f23c-762f-44ab-8832-023a3dd23ced", typeof(Analytics), typeof(Crashes), typeof(Push));
             // Push.SetEnabledAsync(true);
             Frame rootFrame = Window.Current.Content as Frame;
             // This should come before AppCenter.Start() is called
