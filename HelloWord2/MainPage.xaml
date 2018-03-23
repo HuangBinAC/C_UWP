@@ -11,5 +11,6 @@
         <Button Content="Analytics" HorizontalAlignment="Left" Margin="65,113,0,0" VerticalAlignment="Top" Click="Button_Analytics" Height="128" Width="151"/>
         <Button Content="Crashes" HorizontalAlignment="Left" Margin="429,113,0,0" VerticalAlignment="Top" Click="Button_Crash" Height="128" Width="151"/>
         <Button Content="NewCrashes" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="429,318,0,0" Width="151" Click="Button_NewCrash"/>
+        <Button Content="NewEvent" HorizontalAlignment="Left" Margin="65,318,0,0" Click="Button_NewEvent" VerticalAlignment="Top" Width="151"/>
     </Grid>
 </Page>

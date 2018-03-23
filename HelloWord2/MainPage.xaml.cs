@@ -49,5 +49,14 @@ namespace HelloWord2
                 { "CarBrand", "Lexus"}
             });
         }
+
+        private void Button_NewEvent(object sender, RoutedEventArgs e)
+        {
+            Analytics.TrackEvent("this is a new event", new Dictionary<string, string> {
+                { "吉尔伽美什", "杂修" },
+                { "拉美西斯二世", "哈哈哈哈哈"},
+                { "基督山伯爵", "一起虎啊虎"}              
+            });
+        }
     }
 }
