@@ -43,11 +43,9 @@ namespace HelloWord2
         /// </summary>
         /// <param name="e">Details about the launch request and process.</param>
         protected override void OnLaunched(LaunchActivatedEventArgs e)
-        {
-            // AppCenter.SetLogUrl("https://in-staging-south-centralus.staging.avalanch.es");
+        {      
             AppCenter.SetCountryCode("jp");
             AppCenter.Start("ad16f23c-762f-44ab-8832-023a3dd23ced", typeof(Analytics), typeof(Crashes), typeof(Push));
-            // Push.SetEnabledAsync(true);
             Frame rootFrame = Window.Current.Content as Frame;
             // This should come before AppCenter.Start() is called
             Push.PushNotificationReceived += (sender, es) => {

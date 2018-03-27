@@ -28,13 +28,13 @@
     <AppXManifest Include="D:\Project\C_UWP_HelloWord\HelloWord2\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-03-23T06:03:24.047</Modified>
+      <Modified>2018-03-27T06:59:04.940</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="D:\Project\C_UWP_HelloWord\HelloWord2\bin\x86\Debug\HelloWord2.exe">
       <PackagePath>entrypoint\HelloWord2.exe</PackagePath>
-      <Modified>2018-03-23T06:03:21.299</Modified>
+      <Modified>2018-03-27T06:59:00.360</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\v-bihuan\.nuget\packages\microsoft.appcenter.crashes\1.5.0\build\uap10.0\..\..\runtimes\win10-x86\native\WatsonRegistrationUtility.dll">
       <PackagePath>WatsonRegistrationUtility.dll</PackagePath>
@@ -605,7 +605,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Project\C_UWP_HelloWord\HelloWord2\bin\x86\Debug\Core\HelloWord2.exe">
       <PackagePath>HelloWord2.exe</PackagePath>
-      <Modified>2018-03-23T06:03:24.035</Modified>
+      <Modified>2018-03-27T06:59:04.917</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
